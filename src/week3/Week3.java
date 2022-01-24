@@ -18,6 +18,7 @@ public class Week3 {
     {
         System.out.println("Learning Github");
         System.out.println("changes in github");
+        // fetch +merge
     }
     
 }
